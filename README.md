@@ -7,12 +7,16 @@
 ## 方法一｜先试一次（推荐）
 
 1. [下载练习包 ZIP](https://github.com/Loku1210/agent-tutor/releases/download/v0.1.0/Agent-Tutor-v0.1.0.zip)，然后解压。
-2. 在 Codex 里打开解压后的 **`practice` 文件夹**。这个文件夹已经带好了陪练和一份示例笔记。
+2. 在 Codex 里添加一个本地项目，选择解压后的 **`practice` 文件夹**。陪练和示例笔记都在里面。
 3. 新开一个会话，发送 **你好**。看到它问你「今天想用 Codex 做什么」就可以开始了。
+
+![方法一操作示意。在 Codex 的文件夹选择器中打开 practice，再在聊天框发送「你好」。](docs/images/quick-start.png)
 
 想试做一件小事？接着发：**把示例笔记整理成待办，新建一个文件，原件别动。**
 
 ## 方法二｜装一次，在自己的项目里用
+
+![方法二操作示意。把安装指令发到 Codex 聊天框，装好后在新会话发送「$agent-tutor 你好」。](docs/images/install-and-start.png)
 
 把下面整行复制到 **Codex 的聊天框**，发送。
 
