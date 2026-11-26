@@ -1,0 +1,4 @@
+interface:
+  display_name: "Agent Tutor"
+  short_description: "Learn Codex by doing one task at a time"
+  default_prompt: "$agent-tutor 你好，带我做第一个小任务。"
