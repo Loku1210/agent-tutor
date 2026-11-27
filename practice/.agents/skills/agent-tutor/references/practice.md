@@ -6,7 +6,16 @@ Use the learner's own task when they have one. If they choose a sample, use [the
 2. **Check and refine.** Ask the learner to open the result and compare one item with the note. If they want to practise feedback, offer a specific example such as “把没有确定负责人的事项单独列出来。” Apply their instruction and inspect the actual result.
 3. **Save or skip.** If the learner asks to keep a preference, use [the rules guide](saving-rules.md). A first exercise is complete when the learner has a result they can check. There is no required profile, quiz, or fixed lesson order.
 
-To provide an exercise project that starts with a plain greeting, use the files from [the practice folder](../assets/practice/) in a separate practice folder. Open that folder as a new Codex project. This project-level welcome is opt-in and applies only in that folder.
+To provide an exercise project that starts with a plain greeting, use the files from [the practice folder](../assets/practice/) in a separate practice folder. Open that folder as a new project in your local agent (see [host compatibility](host-compatibility.md) for Codex, Claude Code, AGY, ZCode, WorkBuddy, and DeepSeek clients). This project-level welcome is opt-in and applies only in that folder.
+
+## Optional starter scenarios and next steps
+
+If the learner finishes one small task and wants to keep exploring, offer 2–3 relevant next steps without making them mandatory:
+
+- **Try a common scenario:** [office docs, forms, and meeting prep](scenarios/office-docs.md), [research and literature synthesis](scenarios/research-literature.md), [daily planning and self-learning](scenarios/daily-learning.md), or [folder cleanup and quick local mini-tools](scenarios/quick-tool-and-files.md). For any other topic, decompose the learner's own goal directly.
+- **Continue in a new session:** show how a 3-line progress note (`已完成`, `待定选择`, `下一步`) lets a fresh session pick up cleanly without pasting chat history.
+- **Scale up a bigger task:** use [choosing how to work](choosing-how-to-work.md) when the learner wants to understand single-agent vs. parallel vs. dependent workflows.
+- **Keep a reusable habit:** use [saving feedback and rules](saving-rules.md) when a preference should apply to future tasks.
 
 ## Words the learner may ask about
 
