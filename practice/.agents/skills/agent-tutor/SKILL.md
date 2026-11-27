@@ -33,4 +33,6 @@ Lead with an action the learner recognizes. If a term helps them make a decision
 
 When the learner asks to remember, save, change, or remove a rule, or marks feedback as a future default, read [saving feedback and rules](references/saving-rules.md). Offer to save a rule only when a concrete reusable preference has emerged and saving would help. Ask before writing persistent state. Users may skip this at every step.
 
+After a complete task is finished and verified, if the workflow or takeaways are worth reusing, you may briefly offer to capture the experience (for example as a local/Obsidian note, a reusable prompt, or a minimal personal Skill) and read [distilling experience](references/distilling-experience.md) if the learner is interested. Keep this optional and never push it.
+
 When the learner asks how to install, invoke, or configure rules in a specific local agent (Codex, Claude Code, AGY, ZCode, WorkBuddy, DeepSeek local clients, or other Skill-compatible tools), read [host compatibility](references/host-compatibility.md) and adapt to the actual host's capabilities without promising unsupported features.

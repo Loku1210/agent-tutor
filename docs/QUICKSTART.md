@@ -1,4 +1,4 @@
-# 图文教程｜在 Codex 里第一次使用 Agent Tutor v0.2.0
+# 图文教程｜在 Codex 里第一次使用 Agent Tutor v0.2.1
 
 这页带你从下载练习包，到在 Codex 里说出第一句话。图中界面直接使用 Codex 官方页面提供的真实界面图；下方项目名和输入内容按 Agent Tutor 的实际试用步骤编写。界面会随版本调整，按钮文字若有变化，按“新建本地项目、选文件夹、开新会话”的顺序操作即可。
 
@@ -12,7 +12,7 @@
 
 ### 1. 下载并解压
 
-下载[练习包 ZIP](https://github.com/Loku1210/agent-tutor/releases/download/v0.2.0/Agent-Tutor-v0.2.0.zip)，解压后会看到 `practice` 文件夹。陪练 Skill 和练习笔记都在这个文件夹内。
+下载[练习包 ZIP](https://github.com/Loku1210/agent-tutor/releases/download/v0.2.1/Agent-Tutor-v0.2.1.zip)，解压后会看到 `practice` 文件夹。陪练 Skill 和练习笔记都在这个文件夹内。
 
 ### 2. 把 `practice` 文件夹作为本地项目打开
 
@@ -54,6 +54,8 @@ $agent-tutor 你好
 
 陪练会先说明它准备怎么做，再完成一小步。结束后检查项目文件列表：应该新增 `todo.md`，示例笔记仍保留原样。
 
+任务完成后，可按需沉淀为本地/Obsidian 笔记、复用 Prompt 或自己的小 Skill。
+
 ### 想试试科研场景？
 
 在练习项目或自己的科研项目中，可以这样开口：
@@ -69,7 +71,7 @@ $agent-tutor 你好
 在 Codex 会话中发送下面整行：
 
 ```text
-$skill-installer 请从 https://github.com/Loku1210/agent-tutor/tree/v0.2.0/practice/.agents/skills/agent-tutor 安装 Agent Tutor
+$skill-installer 请从 https://github.com/Loku1210/agent-tutor/tree/v0.2.1/practice/.agents/skills/agent-tutor 安装 Agent Tutor
 ```
 
 安装完成后，打开你自己的项目并新开会话，输入：

@@ -1,6 +1,8 @@
-# Agent Tutor v0.2.0 · 本地 Agent 新手陪练
+# Agent Tutor v0.2.1 · 本地 Agent 新手陪练
 
 用你手头的本地 Agent 开始练习。Agent Tutor 会先理解目标，再带你完成一小步、核对结果。
+
+任务完成后，可按需沉淀为本地/Obsidian 笔记、复用 Prompt 或自己的小 Skill。
 
 [第一次使用？打开带 Codex 官方界面图的逐步教程](docs/QUICKSTART.md)。
 
@@ -8,7 +10,7 @@
 
 ## 方法一｜先试一次（推荐）
 
-1. [下载练习包 ZIP](https://github.com/Loku1210/agent-tutor/releases/download/v0.2.0/Agent-Tutor-v0.2.0.zip)，然后解压。
+1. [下载练习包 ZIP](https://github.com/Loku1210/agent-tutor/releases/download/v0.2.1/Agent-Tutor-v0.2.1.zip)，然后解压。
 2. 在 Codex 里新建本地项目，选择解压后的 **`practice` 文件夹**。详细图文步骤见[新手逐步教程](docs/QUICKSTART.md)。
 3. 新开一个会话，发送 **你好**。如果没有进入陪练，再发送 **`$agent-tutor 你好`**。其他客户端按下方「其他客户端」加载，再打开 `practice` 练习。
 
@@ -23,14 +25,14 @@
 把下面整行复制到 Codex 聊天框，发送：
 
 ```text
-$skill-installer 请从 https://github.com/Loku1210/agent-tutor/tree/v0.2.0/practice/.agents/skills/agent-tutor 安装 Agent Tutor
+$skill-installer 请从 https://github.com/Loku1210/agent-tutor/tree/v0.2.1/practice/.agents/skills/agent-tutor 安装 Agent Tutor
 ```
 
 等 Codex 提示安装完成，打开你自己的项目，新开一个会话，发送 **`$agent-tutor 你好`**。逐步图解也在[新手教程](docs/QUICKSTART.md)。
 
 ## 方法三｜手动复制（前两种用不了时）
 
-1. 下载并解压[练习包 ZIP](https://github.com/Loku1210/agent-tutor/releases/download/v0.2.0/Agent-Tutor-v0.2.0.zip)。
+1. 下载并解压[练习包 ZIP](https://github.com/Loku1210/agent-tutor/releases/download/v0.2.1/Agent-Tutor-v0.2.1.zip)。
 2. 找到 `practice/.agents/skills/agent-tutor`，复制整个 `agent-tutor` 文件夹。看不到 `.agents` 时，macOS 在 Finder 按 `Command + Shift + .`，Windows 在资源管理器中开启「隐藏的项目」。
 3. 粘贴到个人目录下的 `.agents/skills`。如果目录还没有，就依次创建 `.agents` 和 `skills`。完成后，`SKILL.md` 应位于 `.agents/skills/agent-tutor` 里面。
 4. 回到 Codex，新开一个会话，发送 **`$agent-tutor 你好`**。

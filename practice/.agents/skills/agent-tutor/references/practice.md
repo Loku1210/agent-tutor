@@ -16,6 +16,7 @@ If the learner finishes one small task and wants to keep exploring, offer 2–3 
 - **Continue in a new session:** show how a 3-line progress note (`已完成`, `待定选择`, `下一步`) lets a fresh session pick up cleanly without pasting chat history.
 - **Scale up a bigger task:** use [choosing how to work](choosing-how-to-work.md) when the learner wants to understand single-agent vs. parallel vs. dependent workflows.
 - **Keep a reusable habit:** use [saving feedback and rules](saving-rules.md) when a preference should apply to future tasks.
+- **Distill what worked:** after finishing a full task, optionally use [distilling experience](distilling-experience.md) to save a local/Obsidian note, a reusable prompt, or a minimal personal Skill.
 
 ## Words the learner may ask about
 
